@@ -8,6 +8,8 @@ Atualmente compartilho minha jornada no instagram, no youtube e no tiktok.
 Também estou presente no linked in
 
 
+!(/.chuva.png)
+
 
 
 

@@ -7,7 +7,7 @@ Atualmente, estudo diariamente e faço projetos para aprimorar e colocar em prá
 
 <div>
 <a href="https://github.com/ericabrantes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaabrantes&layout=compact&langs_count=7&theme=bear"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaabrantes&layout=compact&langs_count=7&theme=gradient"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ericaabrantes&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -24,7 +24,7 @@ Compartilho minha jornada nas redes sociais:
 <img src= chuva.png>
 
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ericaabrantes/ericaabrantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

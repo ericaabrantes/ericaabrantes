@@ -24,7 +24,6 @@ Compartilho minha jornada nas redes sociais:
 <img src= chuva.png>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?ericaabrantes=ffflabs)](https://github.com/ericaabrantes/github-readme-stats)
 
 <!--
 **ericaabrantes/ericaabrantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

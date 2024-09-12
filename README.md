@@ -5,6 +5,12 @@ Iniciei meus estudos em programação em dezembro de 2023. Meu foco era aprender
 Amo coisas personalizadas e encontrei na programação um jeito de personalizar virtualmente. Eu  comecei a fazer cursos e estudar por conta própria, porém me identifiquei tanto com a área que iniciei a faculdade de Desenvolvimento Full Stack na Estácio. Mas porque esse curso? Porque ele tem a grade mais próxima do que eu me identifico.
 Atualmente, estudo diariamente e faço projetos para aprimorar e colocar em prática meus conhecimentos.
 
+<div>
+<a href="https://github.com/ericabrantes">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 Compartilho minha jornada nas redes sociais:
 
 <div>
@@ -12,7 +18,6 @@ Compartilho minha jornada nas redes sociais:
 <a href="https://instagram.com/kirabyte.tech" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.tiktok.com/@kirabyte" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
 <!-- <a href="https://www.twitch.tv/kiramimos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-<a href = "mailto:ericabrantes@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/%C3%A9rica-abrantes-ignatios-7a9527249/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 

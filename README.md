@@ -1,15 +1,27 @@
-### Olá! Seja bem-vindo(a) ao meu universo de dados 🚀
+<div align="center">
+  <table>
+    <tr>
+      <td width="180">
+        <img src="https://raw.githubusercontent.com/ericaabrantes/ericaabrantes/main/Logo Érica Ignatios-3.png" width="160px" alt="Logo Érica Ignatios">
+      </td>
+      <td align="left">
 
-Sou a Érica Ignatios, engenheira de dados, apaixonada por tecnologia, automação e por transformar dados em decisões.  
+<h3>Olá! Seja bem-vindo(a) ao meu universo de dados 🚀</h3>
 
-Minha trajetória começou no desenvolvimento web, onde criei o projeto **Kirabyte** para documentar meu aprendizado de forma criativa e acessível. Hoje, aplico esse mesmo espírito explorador no universo de dados, desenvolvendo pipelines, criando motores sintéticos, e orquestrando soluções com ferramentas como **Databricks**, **Airflow**, **Docker**, **SQL**, **Python** e muito mais.
+Sou a <strong>Érica Ignatios</strong>, engenheira de dados, apaixonada por tecnologia, automação e por transformar dados em decisões.  
 
-💡 Atualmente:
-- Estagiária em Engenharia de Dados (CWI + Ouze)  
-- Criadora de conteúdo técnico e do blog [Kirabyte](https://kirabyte.com.br)  
+Minha trajetória começou no desenvolvimento web, onde criei o projeto <strong>Kirabyte</strong> para documentar meu aprendizado de forma criativa e acessível. Hoje, aplico esse mesmo espírito explorador no universo de dados, desenvolvendo pipelines, criando motores sintéticos, e orquestrando soluções com ferramentas como <strong>Databricks</strong>, <strong>Airflow</strong>, <strong>Docker</strong>, <strong>SQL</strong>, <strong>Python</strong> e muito mais.
+
+💡 <strong>Atualmente:</strong><br>
+- Estagiária em Engenharia de Dados (CWI + Ouze) <br>
+- Criadora de conteúdo técnico e do blog <a href="https://kirabyte.com.br">Kirabyte</a> <br>
 - Explorando o ecossistema de dados com foco em arquitetura de pipelines, data quality e automações em nuvem.
 
----
+    </tr>
+  </table>
+</div>
+
+
 
 ### 🧠 Skills e Tecnologias 
 
